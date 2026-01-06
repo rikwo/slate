@@ -4,27 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="741589d5-02be-4a03-a07c-29a59f1ccdd0" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/vite.config.ts" afterDir="false" />
+    <list default="true" id="741589d5-02be-4a03-a07c-29a59f1ccdd0" name="Changes" comment="Merge branch 'master'&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
+      <change afterPath="$PROJECT_DIR$/slate/src/Board.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slate/src/Board.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slate/src/BoardList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slate/src/BoardList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slate/src/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slate/src/Card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/slate/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +54,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -84,6 +80,8 @@
       <updated>1767387912535</updated>
       <workItem from="1767387913566" duration="613000" />
       <workItem from="1767565491298" duration="5255000" />
+      <workItem from="1767650948573" duration="819000" />
+      <workItem from="1767660047222" duration="4307000" />
     </task>
     <servers />
   </component>
