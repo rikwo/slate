@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="741589d5-02be-4a03-a07c-29a59f1ccdd0" name="Changes" comment="Merge branch 'master'&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
-      <change afterPath="$PROJECT_DIR$/slate/src/Board.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/Board.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/BoardList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/BoardList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/Card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slate/src/Card.tsx" afterDir="false" />
+    <list default="true" id="741589d5-02be-4a03-a07c-29a59f1ccdd0" name="Changes" comment="Set up some baseline items to appear">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slate/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/slate/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/slate/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/slate/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/src/Board.css" beforeDir="false" afterPath="$PROJECT_DIR$/slate/src/Board.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/src/Board.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/slate/src/Board.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/src/BoardList.css" beforeDir="false" afterPath="$PROJECT_DIR$/slate/src/BoardList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/src/BoardList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/slate/src/BoardList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/src/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/slate/src/Card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/src/Card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/slate/src/Card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slate/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/slate/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +83,19 @@
       <workItem from="1767387913566" duration="613000" />
       <workItem from="1767565491298" duration="5255000" />
       <workItem from="1767650948573" duration="819000" />
-      <workItem from="1767660047222" duration="4307000" />
+      <workItem from="1767660047222" duration="4346000" />
+      <workItem from="1767918334833" duration="4522000" />
+      <workItem from="1769056351567" duration="4776000" />
     </task>
+    <task id="LOCAL-00001" summary="Set up some baseline items to appear">
+      <option name="closed" value="true" />
+      <created>1767664981054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767664981054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Set up some baseline items to appear" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up some baseline items to appear" />
   </component>
 </project>
